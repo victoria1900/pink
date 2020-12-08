@@ -1,0 +1,148 @@
+.pink-main-install__title {
+    width: 291px;
+    font-family: OpenSans;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+    color: white;
+    padding-left: 50px;
+    padding-top: 29px;
+}
+
+.pink-main-install__link {
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    border: solid 3px white;
+    border-radius: 40px;
+    padding: 13px 24px 15px 29px;
+    ;
+    width: 202px;
+    height: 18px;
+}
+
+.pink-main-install__available {
+    font-family: inherit;
+    font-size: 14px;
+    color: white;
+}
+
+.pink-main-install__brand {
+    list-style: none;
+}
+
+.pink-main-description__subtitle-first {
+    font-family: inherit;
+    font-size: 24px;
+    color: #283645;
+    width: 214px;
+}
+
+.pink-main-description__subtitle-second {
+    font-family: inherit;
+    font-size: 24px;
+    width: 214px;
+    color: #283645;
+}
+
+.pink-main-description__paragraph {
+    list-style: none;
+    width: 272px;
+}
+
+.pink-main-description__subtitle {
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: bold;
+    color: #000000;
+    font-size: 14px;
+}
+
+.pink-main-description__text {
+    font-family: inherit;
+    font-size: 14px;
+    color: #283645;
+}
+
+.pink-main-price__caption {
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.pink-main-price__cost {
+    font-family: inherit;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.pink-main-price__filter {
+    font-family: inherit;
+    font-size: 14px;
+    color: #283645;
+}
+
+.pink-main-price__smiles {
+    font-family: inherit;
+    font-size: 14px;
+    color: #283645;
+}
+
+.pink-main-price__comments {
+    font-family: inherit;
+    font-size: 14px;
+    color: #283645;
+}
+
+.pink-main-install__devices {
+    display: flex;
+    padding-top: 32px;
+    padding-left: 57px;
+    justify-content: space-between;
+}
+
+.pink-main-price__img path {
+    width: 31px;
+    height: 21px;
+    fill: yellow;
+}
+
+.pink-main-install__install-app {
+    background-color: rgb(67, 68, 88);
+    padding: 28px 20px 35px 19px;
+    width: 320px;
+    height: 271px;
+}
+
+.pink-main-install__button {
+    margin-left: 19px;
+    margin-top: 28px;
+}
+
+.pink-main-install__background {
+    background: no-repeat url("../img/background.png");
+    width: 320px;
+    height: 462px;
+}
+
+.pink-main-description__opportunities {
+    background-color: #f2f2f2;
+    width: 320px;
+    height: 828px;
+}
+
+.pink-main-description__background {
+    background-color: white;
+}
+
+.pink-main-install__available-devices {
+    width: 291px;
+}
+
+.swiper-container {
+    background-color: #f2f2f2;
+    width: 320px;
+    margin: 0px;
+}
